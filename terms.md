@@ -4,12 +4,12 @@ title: Terms of Service
 
 # Terms of Service
 
-**Tiktoklizando**
+**ViajanteUp**
 Last updated: 10 October 2026
 
 ## 1. What this application is
 
-Tiktoklizando is a personal desktop application that schedules and publishes
+ViajanteUp is a personal desktop application that schedules and publishes
 its owner's own videos to the owner's own TikTok account. It runs locally on
 the owner's computer. It is not a hosted service, it is not sold, and it is not
 made available to other users.
@@ -76,4 +76,4 @@ updated date.
 
 ## 10. Contact
 
-<https://github.com/lucaszhm/tiktoklizando>
+<https://github.com/lucaszhm/viajanteup>

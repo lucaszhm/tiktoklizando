@@ -4,19 +4,19 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Tiktoklizando**
+**ViajanteUp**
 Last updated: 10 October 2026
 
 ## In short
 
-Tiktoklizando is a personal desktop application that runs on its owner's own
+ViajanteUp is a personal desktop application that runs on its owner's own
 computer. It has no server, no database and no analytics. It does not collect,
 transmit or sell anyone's data. It posts the owner's own videos to the owner's
 own TikTok account, and nothing else.
 
 ## Who runs this application
 
-Tiktoklizando is built and used by a single creator to publish their own travel
+ViajanteUp is built and used by a single creator to publish their own travel
 videos to their own TikTok account. It is not offered as a service to other
 people and has no other users.
 
@@ -79,4 +79,4 @@ updated date.
 ## Contact
 
 Questions about this policy can be sent to the repository that hosts this page:
-<https://github.com/lucaszhm/tiktoklizando>
+<https://github.com/lucaszhm/viajanteup>

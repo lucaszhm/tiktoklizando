@@ -1,8 +1,8 @@
 ---
-title: Tiktoklizando
+title: ViajanteUp
 ---
 
-# Tiktoklizando
+# ViajanteUp
 
 A personal desktop application that schedules and publishes its owner's own
 travel videos to their own TikTok account.
